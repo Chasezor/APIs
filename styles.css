@@ -1,0 +1,19 @@
+*{
+    color:white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(357deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+#btn 
+{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 13px;
+    background: rgba(9,9,121,1);
+    border: none;
+}
+
